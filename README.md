@@ -10,6 +10,15 @@ Welcome to my GitHub profile! I am a dedicated and skilled **Webmaster** current
 - **SEO & Analytics**: Search Engine Optimization, Google Analytics
 - **Security Practices**: Implementing SSL/TLS, regular backups, and data protection
 
+## 🌟 Projects
+
+- **[3str.net](https://3str.net)**: 
+  - **Role**: Webmaster and Article Writing Collaborator
+  - **Description**: Developed and set up the website based on specific requirements. Ensured the site ran smoothly without bugs and optimized performance to meet performance standards. Contributed as an article writing collaborator to enhance content quality and user engagement.
+  - **Key Achievements**: 
+    - Successfully launched the site with minimal issues.
+    - Implemented performance optimizations that meet all required benchmarks.
+      
 ## 🚀 Interests
 
 I am passionate about:
